@@ -1,2 +1,2 @@
 # arena
-Store various train code
+Store various training code
